@@ -21,6 +21,6 @@ print(type(3.14))              # float
 print(type(1 + 3j))            # complex
 print(type("khoni"))           # str
 print(type([1, 2, 3]))         # list 
-print(type({"name";"khoni"}))  # dict
+print(type({"name":"khoni"}))  # dict
 print(type({9.8, 3.14, 2.7}))  # set
 print(type((9.8, 3.14, 2.7)))  # tuple
