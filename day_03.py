@@ -1,7 +1,7 @@
 Day_03.py
 learnt about methods, sorted, reverse(False,True) , capitalize, index, replace 
 EXAMPLE:
- x = [1,2,3,4,5,6,7]
+x = [1,2,3,4,5,6,7]
 >>> y = [8,9,10,11,12,13,14,15]
 >>> full = x + y
 >>> full_sorted = sorted(full, reverse=True)
