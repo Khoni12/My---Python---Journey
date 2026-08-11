@@ -10,11 +10,11 @@ Documenting my progress through Datacamp's Python for Data Science track.
 - Next : Pandas, Data Visualization, Data Cleaning
 
 
-- Day 1-5 : 🟢 Introduction to Python - Variables, Lists, Loops, Functions ✅️
+- Day 1-7 : 🟢 Introduction to Python - Variables, Lists, Loops, Functions [Completed] ✅️
 
-- Day 6-7 : 🟡 Intermediate Python - Dictionaries, List Comprehensions, Error Handling 🚧
+- Day 8-14 : 🟡 Intermediate Python - Dictionaries, List Comprehensions, Error Handling [In-Progress] 🚧
 
-- Day 8-10: ⚪ Intermediate Python - OOP, Files, Modules ⏳
+- Day 15-22: ⚪ Intermediate Python - OOP, Files, Modules ⏳
 
 ### Tools
 
