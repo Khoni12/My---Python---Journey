@@ -9,14 +9,12 @@ print (3 % 4)                  # modulus: 3
 print (3 // 4)                 # Floor division: 0 
 
 # Exercise Level 2 - Strings 
-
 print ("Khoni")                # First name 
 print ("mphuthi")              # Family name
 print ("south africa")         # country 
 print("i am enjoying 30 days of python")  # Statement 
 
 # Exercise Level 3 - checking Data Types 
-
 print(type(10))                # int
 print(type(3.14))              # float 
 print(type(1 + 3j))            # complex
