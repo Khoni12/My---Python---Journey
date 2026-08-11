@@ -1,4 +1,5 @@
 # Day 02: 30 Days of Python Progamming 
+
 # Exercise 1: Declare Variables 
 first_name = "Khoni"
 last_name = "Mphuthi"
