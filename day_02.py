@@ -12,6 +12,7 @@ is_married = False
 is_true = True
 is_light_on = True
 
+
 # Print all variables 
 print(first_name)
 print(last_name)
