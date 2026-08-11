@@ -32,6 +32,7 @@ print(min(20, 30, 40))           # smallest number
 print(max(20, 30, 40))           # biggest number 
 
 [0, 1, 2, 3, 4, 5]  # all are the same data types - a list of numbers
+
 ['Banana', 'Orange', 'Mango', 'Avocado'] # all the same data types - a list of strings (fruits)
 ['Finland','Estonia', 'Sweden','Norway'] # all the same data types - a list of strings (countries)
 ['Banana', 10, False, 9.81] # different data types in the list - string, integer, boolean and float
