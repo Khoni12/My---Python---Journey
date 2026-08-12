@@ -4,6 +4,22 @@ year = [1950, 1951, 1952, 2100]
 pop = [2.538, 2.57, 2.62, 10.85]
 plt.plot(year, pop)
 plt.show()
+
+          ##This is the corrected to:
+import matplotlib.pyplot as plt
+
+year = [1950, 1951, 1952, 2100]
+pop = [2.538, 2.57, 2.62, 10.85]
+
+# Sort both lists by year
+sorted_data = sorted(zip(year, pop))
+year_sorted, pop_sorted = zip(*sorted_data)
+
+plt.plot(year_sorted, pop_sorted)
+plt.xlabel("Year")
+plt.ylabel("Population (billions)")
+plt.title("World Population Over Time")
+plt.show()
           # lets label our graph
 plt.plot(year, pop)
 plt.xlabel('year')       # label and customise graph before showing the graph. (X AXIS)
